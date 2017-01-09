@@ -1,3 +1,3 @@
 # od
-my nanme victor; 
+my name victor; 
 I am a novice programming novice
